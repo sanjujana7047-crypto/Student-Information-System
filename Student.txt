@@ -1,2 +1,1 @@
-37,Sanjib Jana,Information Technology, 87.000000,Good, 34
-39,Mim,Information Technology, 46.000000,Average, 37
+101,Sanjib Jana,Btech, 76.000000,Good, 35
